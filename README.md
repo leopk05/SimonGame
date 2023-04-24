@@ -1,6 +1,6 @@
 # Simon Game
 
-This is my implementation of Simon Game implemented by me, the idea came from the project of Angela Yu course
+This is my implementation of Simon Game implemented by me, the idea came from the project of Angela Yu course, in the future I will implement it for Smartphone.
 
 ## Table of contents
 
@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./inicial Page.png)
+![](./inicialPage.png)
 
 ### Links
 
